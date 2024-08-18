@@ -12,8 +12,8 @@ Data Science MS student at Tuskegee University
 Research Areas
 ======
 
-Quantum Computing
-Machine Learning
+* Quantum Computing
+* Machine Learning
 
 
 Education
