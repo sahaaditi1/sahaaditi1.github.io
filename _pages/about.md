@@ -24,6 +24,14 @@ Education
 * B.SC. in Computer Science and Engineering
 	* American international University-Bangladesh (AIUB), Dhaka, Bangladesh, [2017-2021]
 
+Projects
+======
+
+* Quantum vs. Classical Long Short Term Memory in Time Series Forecasting
+* Evaluating LSTM Time Series Prediction Performance on Benchmark CPUs and GPUs
+* Performance Benchmarking CNN and QCNN in Binary Classification Tasks
+
+
 Work experience
 ======
 * Fall 2023 - Spring 2025: Graduate Research and Teaching Assistant 
@@ -31,12 +39,6 @@ Work experience
 * Fall 2020: Graduate Teaching Assistant 
   * Department of Computer Science and Engineering, AIUB
   
-Projects
-======
-
-* Quantum vs. Classical Long Short Term Memory in Time Series Forecasting
-* Evaluating LSTM Time Series Prediction Performance on Benchmark CPUs and GPUs
-* Performance Benchmarking CNN and QCNN in Binary Classification Tasks
 
 Funding
 ======
