@@ -20,7 +20,7 @@ Research Areas
 Education
 ======
 * M.SC. in Information System and Computer Security (Track - Data Science)
-	* Tuskegee University, AL, Spring 2025 (Expected)
+	* Tuskegee University, AL, USA  [Expected Spring 2025]
 * B.SC. in Computer Science and Engineering
 	* American international University-Bangladesh (AIUB), Dhaka, Bangladesh, [2017-2021]
 
