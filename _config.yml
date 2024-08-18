@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ADITI.JPG"
+  avatar           : "/blob/main/images/profile.png"
   name             : "Aditi Saha"
   pronouns         : "she/her"  
   bio              : "Graudate Research and Teaching Assistant"
