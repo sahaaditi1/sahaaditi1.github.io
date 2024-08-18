@@ -25,7 +25,7 @@ Education
 
 Work experience
 ======
-* Fall 2023-: Graduate Research and Teaching Assistant 
+* Fall 2023 - Summer 2025: Graduate Research and Teaching Assistant 
   * Department of Computer Science, Tuskegee University
 
 
