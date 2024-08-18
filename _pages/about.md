@@ -26,7 +26,7 @@ Education
 
 Work experience
 ======
-* Fall 2023 - Summer 2025: Graduate Research and Teaching Assistant 
+* Fall 2023 - Spring 2025: Graduate Research and Teaching Assistant 
   * Department of Computer Science, Tuskegee University
 * Fall 2020: Graduate Teaching Assistant 
   * Department of Computer Science and Engineering, AIUB
