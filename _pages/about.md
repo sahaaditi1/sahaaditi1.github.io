@@ -34,8 +34,8 @@ Work experience
 Projects
 ======
 
-* A Comparative Analysis of Quantum vs Classical Long Short Term Memory in Time Series Forecasting
-* Evaluating LSTM Time Series Prediction Performance on Benchmark CPUs and GPUs in Cloud Environments
+* Quantum vs. Classical Long Short Term Memory in Time Series Forecasting
+* Evaluating LSTM Time Series Prediction Performance on Benchmark CPUs and GPUs
 * Performance Benchmarking CNN and QCNN in Binary Classification Tasks
 
 Funding
