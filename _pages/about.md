@@ -20,7 +20,7 @@ Education
 ======
 * M.SC. in Information System and Computer Security (Track - Data Science)
 	* Tuskegee University, AL, Summer 2025 (Expected)
-* B.S. in Computer Science and Engineering
+* B.SC. in Computer Science and Engineering
 	* American international University-Bangladesh (AIUB), Dhaka, Bangladesh, [2017-2021]
 
 Work experience
