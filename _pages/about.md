@@ -18,14 +18,13 @@ Research Areas
 
 Education
 ======
-* M.S. in Information System and Computer Security (Track - Data Science), Tuskegee University, AL, Summer 2025 (Expected)
+* M.SC. in Information System and Computer Security, Tuskegee University, Summer 2025 (Expected)
 * B.S. in Computer Science and Engineering, American international University-Bangladesh (AIUB), Dhaka, Bangladesh, 2021
 
 Work experience
 ======
 * Fall 2023-: Graduate Research and Teaching Assistant 
-  * Department of Computer Science
-  * Tuskegee University 
+  * Department of Computer Science, Tuskegee University
 
 
 Academic
