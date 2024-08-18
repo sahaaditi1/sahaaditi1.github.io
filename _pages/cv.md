@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.SC. in Information System and Computer Security
+	* Tuskegee University, AL, Summer 2025 (Expected)
+* B.S. in Computer Science and Engineering
+	* American international University-Bangladesh (AIUB), Dhaka, Bangladesh, 2021
 
 Work experience
 ======
