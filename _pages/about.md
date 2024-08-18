@@ -18,8 +18,10 @@ Research Areas
 
 Education
 ======
-* M.SC. in Information System and Computer Security, Tuskegee University, Summer 2025 (Expected)
-* B.S. in Computer Science and Engineering, American international University-Bangladesh (AIUB), Dhaka, Bangladesh, 2021
+* M.SC. in Information System and Computer Security
+	* Tuskegee University, AL, Summer 2025 (Expected)
+* B.S. in Computer Science and Engineering
+	* American international University-Bangladesh (AIUB), Dhaka, Bangladesh, 2021
 
 Work experience
 ======
