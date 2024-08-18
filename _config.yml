@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile.png"
+  avatar           : "profile.png"
   name             : "Aditi Saha"
   pronouns         : # example: "she/her"  
   bio              : "Graudate Research and Teaching Assistant"
@@ -31,24 +31,20 @@ author:
   email            : "asaha5032@tuskegee.edu" 
 
   # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=4Vc-IbUAAAAJ&hl=en"
-  #impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-3134-1406"
-  #semantic         : # URL
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-3134-1406" 
   researchgate     : "https://www.researchgate.net/profile/Aditi-Saha-4"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
