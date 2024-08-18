@@ -21,9 +21,9 @@ repository               : "sahaaditi1/sahaaditi1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/blob/main/images/profile.png"
+  avatar           : "profile.png"
   name             : "Aditi Saha"
-  pronouns         : "she/her"  
+  pronouns         : "She/her"  
   bio              : "Graudate Research and Teaching Assistant"
   location         : "Auburn, AL, USA"
   employer         : "Tuskegee University"
