@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Data Science MS student at Tuskegee University
+Data Science MS student at Tuskegee University.
+
 
 Research Areas
 ======
@@ -29,3 +30,14 @@ Work experience
   * Department of Computer Science, Tuskegee University
 * Fall 2020: Graduate Teaching Assistant 
   * Department of Computer Science and Engineering, AIUB
+  
+Projects
+======
+
+* A Comparative Analysis of Quantum vs Classical Long Short Term Memory in Time Series Forecasting
+* Evaluating LSTM Time Series Prediction Performance on Benchmark CPUs and GPUs in Cloud Environments
+* Performance Benchmarking CNN and QCNN in Binary Classification Tasks
+
+Funding
+======
+* Integrated Groundwater Management Project​ (NSF EPSCoR)
