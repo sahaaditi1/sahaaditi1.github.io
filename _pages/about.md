@@ -25,10 +25,10 @@ Recent updates
 
 Education
 ======
-* M.SC. in Information System and Computer Security (Track - Data Science)
+* M.SC. in Information Systems and Computer Security (Track - Data Science)
 	* Tuskegee University, AL, USA  [Expected Spring 2025]
 * B.SC. in Computer Science and Engineering
-	* American international University-Bangladesh (AIUB), Dhaka, Bangladesh, [2017-2021]
+	* American International University-Bangladesh (AIUB), Dhaka, Bangladesh, [2017-2021]
 
 Projects
 ======
