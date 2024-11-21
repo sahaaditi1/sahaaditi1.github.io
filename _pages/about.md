@@ -38,7 +38,12 @@ Work experience
   * Department of Computer Science, Tuskegee University
 * Fall 2020: Graduate Teaching Assistant 
   * Department of Computer Science and Engineering, AIUB
-  
+    
+Publication 
+======
+* Accepted for oral presentation in AGU 2024 2024 IEEE International Conference on Big Data workshop BPOD 2024 in Washington, D.C
+* Manuscript accepted in 2024 IEEE International Conference on Big Data workshop BPOD 2024 in Washington, D.C
+* Manuscript accepted in 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) in University of Nevada, Las Vegas  
 
 Funding
 ======
