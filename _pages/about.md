@@ -15,7 +15,7 @@ Research Areas
 
 * Quantum Computing
 * Machine Learning
-* Time series forcasting
+* Time series forecasting
   
 Recent updates 
 ======
@@ -35,6 +35,7 @@ Projects
 ======
 
 * Quantum vs. Classical Long Short Term Memory in Time Series Forecasting
+* Groundwater Level Prediction: Analyzing the Performance of LSTM and QLSTM Model
 * Evaluating LSTM Time Series Prediction Performance on Benchmark CPUs and GPUs
 * Performance Benchmarking CNN and QCNN in Binary Classification Tasks
 
