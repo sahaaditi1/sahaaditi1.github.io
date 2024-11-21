@@ -15,6 +15,7 @@ Research Areas
 
 * Quantum Computing
 * Machine Learning
+* Time series forcasting
   
 Recent updates 
 ======
