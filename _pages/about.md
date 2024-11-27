@@ -13,9 +13,10 @@ Data Science MS student at Tuskegee University.
 Research Areas
 ======
 
-* Quantum Computing
-* Machine Learning
+* Quantum machine learning
+* Machine learning
 * Time series forecasting
+* Large language models
   
 Recent updates 
 ======
