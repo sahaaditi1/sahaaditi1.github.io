@@ -19,9 +19,9 @@ Research Areas
   
 Recent updates 
 ======
+* Two manuscripts accepted in 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) at the University of Nevada, Las Vegas
 * Manuscript accepted at the 7th Workshop on Benchmarking, Performance Tuning, and Optimization for Big Data Applications (BPOD 2024) as part of the IEEE Big Data conference
 * Accepted for oral and poster presentation at American Geophysical Union Conference 2024 in Washington, D.C 
-* Manuscript accepted in 2025 IEEE 15th Annual Computing and Communication Workshop and Conference (CCWC) at the University of Nevada, Las Vegas
 * Presented at Alabama Higher Education AI exchange conference at Biggio Center at Auburn University, Auburn, AL, October 2024
 
 Education
