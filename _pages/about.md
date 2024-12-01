@@ -17,6 +17,8 @@ Research Areas
 * Machine learning
 * Time series forecasting
 * Large language models
+* Data analytics
+* High performance computing
   
 Recent updates 
 ======
